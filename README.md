@@ -1,16 +1,16 @@
 # Forum App in React & Redux + Django
 
 ```
-Forum App, with a frontend built in React & Redux and a backend built in Django API.
+This project is an online ledger to help you track your expenditure and income accurately and effectively monitor your spending. It is created in a user-friendly manner are diagrammatic and graphical representations to enhance your understanding, save you time from the tedious process of bookkeeping, giving you the ability to sync and manage your entire bookkeeping in a single app.
 ```
 
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://forum-prod-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://money-count-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://forum-prod-api.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://money-count-backend.herokuapp.com/) here!!
 
 ## Tech used
 
