@@ -1,4 +1,4 @@
-# Forum App in React & Redux + Django
+# Money Count App in React & Redux + Django
 
 ```
 This project is an online ledger to help you track your expenditure and income accurately and effectively monitor your spending.
